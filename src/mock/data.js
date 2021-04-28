@@ -22,8 +22,7 @@ export const aboutData = {
     "Hello, I'm Serzhan, from Kazakhstan. I've been learning front-end development since last year. Very excited to learn, develop my skills and knowledge in this fast-changing web world :)",
   paragraphTwo:
     'Привет! Меня зовут Сержан, я из Казахстана. Изучаю фронтенд уже почти год. Всегда рад учится полезным навыкам и расширять знания в этом прогрессивном мире веба :)',
-  paragraphThree: ' ',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphThree: ' ', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
