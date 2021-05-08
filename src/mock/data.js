@@ -46,6 +46,16 @@ export const projectsData = [
     url: 'https://movie-opal.vercel.app/',
     repo: 'https://github.com/serzhan181/Movie', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project-3.png',
+    title: 'Drawing app',
+    info:
+      'This is more like of a game app. You can draw stuff online with your friends, or just with people around the internet. Unfortunately I couldnt deploy this due to the websocket related problems. But I\'m still wanting to, so maybe I will if I figure out how.',
+    info2: 'Technologies: Vanilla JS, bulma.css, express',
+    url: 'https://github.com/serzhan181/draw_me_please/',
+    repo: 'https://github.com/serzhan181/draw_me_please/', // if no repo, the button will not show up  
+  }
 ];
 
 // CONTACT DATA
