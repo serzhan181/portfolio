@@ -70,11 +70,6 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'vk',
-      url: 'https://vk.com/idarhipovskiy',
-    },
-    {
-      id: nanoid(),
       name: 'telegram',
       url: 'https://t.me/serbaevvv',
     },
